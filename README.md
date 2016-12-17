@@ -34,8 +34,8 @@
 8) TODO: the above script is runing on an aws server check its public web site for some UI (coming soon)
 
 
-here: http://52.60.85.91/~ubuntu/
+here: http://52.60.90.44/~ubuntu/
 
 or
 
-here: http://52.60.85.91/
+here: http://52.60.90.44
