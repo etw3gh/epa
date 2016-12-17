@@ -16,10 +16,3 @@
 
 	www.epa.gov.xml
 
-4) convert to csv":
-
-	python3 tocsv.py
-
-5) the above output has been saved here for your convenience:
-
- 	www.epa.gov.csv
