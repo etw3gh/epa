@@ -15,10 +15,18 @@
 
 [link to raw view of xml](https://raw.githubusercontent.com/openciti/epa/master/www.epa.gov.xml)
 
-4) convert to csv":
+4) convert to csv:
 
 `python3 tocsv.py`
 
 5) the above output has been saved here for your convenience:
 
 [link to raw view of csv](https://raw.githubusercontent.com/openciti/epa/master/www.epa.gov.csv)
+
+6) optional. strip out links to files
+
+`./nofiles.sh`
+
+7) the above output has been save here for your convenience:
+
+[link to raw txt](https://raw.githubusercontent.com/openciti/epa/master/cleaned_nofiles.txt)
