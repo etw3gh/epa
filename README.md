@@ -14,7 +14,7 @@
 
 4) the above output has been saved here for your convenience:
 
-	www.epa.gov.xml
+	[link to raw view of xml](https://raw.githubusercontent.com/openciti/epa/master/www.epa.gov.xml)
 
 4) convert to csv":
 
@@ -22,4 +22,4 @@
 
 5) the above output has been saved here for your convenience:
 
- 	www.epa.gov.csv
+ 	[link to raw view of csv](https://raw.githubusercontent.com/openciti/epa/master/www.epa.gov.csv)
