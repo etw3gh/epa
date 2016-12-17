@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 final = []
-final.append('url, lastmod')
+final.append('url, lastmod\n')
 with open('www.epa.gov.xml', 'r') as f:
     lines = f.readlines()
     for line in lines:
