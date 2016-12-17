@@ -30,3 +30,12 @@
 7) the above output has been save here for your convenience:
 
 [link to raw txt](https://raw.githubusercontent.com/openciti/epa/master/cleaned_nofiles.txt)
+
+8) TODO: the above script is runing on an aws server check its public web site for some UI (coming soon)
+
+
+here: http://52.60.85.91/~ubuntu/
+
+or
+
+here: http://52.60.85.91/
