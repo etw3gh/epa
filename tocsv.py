@@ -11,5 +11,5 @@ with open('www.epa.gov.xml', 'r') as f:
             final.append(clean)
 
 with open('www.epa.gov.csv', 'w') as csv:
-    for line in final:
+    for line in sorted(final):
         csv.write(line)
