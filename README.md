@@ -38,6 +38,8 @@ files have been added to this repo:
 
 `python3 main.py --domain https://www.epa.gov --output www.epa.gov.xml`
 
+3a) TODO pass above file values to scripts instead of hard coding them. Its assumed by other scripts that you're running exactly text in step 3) 
+
 4) the above output has been saved here for your convenience:
 
 [link to raw view of xml](https://raw.githubusercontent.com/openciti/epa/master/www.epa.gov.xml)
