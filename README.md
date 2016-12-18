@@ -44,7 +44,7 @@ files have been added to this repo:
 
 [link to raw view of xml](https://raw.githubusercontent.com/openciti/epa/master/www.epa.gov.xml)
 
-4) convert to csv:
+4a) optional (for neo4j guys). convert to csv:
 
 `python3 tocsv.py`
 
@@ -62,14 +62,15 @@ files have been added to this repo:
 
 8) TODO: the above script is runing on an aws server check its public web site for some UI (coming soon)
 
+here: http://52.60.90.44/~ubuntu/
+
+or
+
+here: http://52.60.90.44
+
 9) TODO: commit to git when script is done
 
 10) TODO: generalize for any website / discover list of sites online
 
 11) TODO: ontario gov
 
-here: http://52.60.90.44/~ubuntu/
-
-or
-
-here: http://52.60.90.44
