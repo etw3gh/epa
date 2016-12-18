@@ -1,10 +1,18 @@
+# overview
+
+Attempts to create a sitemap for www.epa.gov
+
+## note
+
+official web url is www3.epa.gov but this is not useful for crawling
+
 # code origin
 
 files have been added to this repo:
 
 	https://github.com/c4software/python-sitemap.git
 
-# original files
+## original files
 
 	README_ORIGINAL.md renamed from README.md
 	
@@ -16,7 +24,7 @@ files have been added to this repo:
 
 	main.py
 
-# data files (so you don't need to run below tasks yourself)
+## data files (so you don't need to run below tasks yourself)
 
 	www.epa.gov.xml (first 6 lines are for sitemap xml schema)
  
