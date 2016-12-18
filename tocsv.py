@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 final = []
-final.append('url, lastmod\n')
+header_line = 'url, lastmod\n'
 with open('www.epa.gov.xml', 'r') as f:
     lines = f.readlines()
     for line in lines:
@@ -11,5 +11,6 @@ with open('www.epa.gov.xml', 'r') as f:
             final.append(clean)
 
 with open('www.epa.gov.csv', 'w') as csv:
+    csv.write(header_line)
     for line in sorted(final):
         csv.write(line)
