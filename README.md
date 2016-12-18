@@ -18,9 +18,9 @@ files have been added to this repo:
 
 # data files (so you don't need to run below tasks yourself)
 
-	www.epa.gov.xml
+	www.epa.gov.xml (first 6 lines are for sitemap xml schema)
  
-	www.epa.gov.csv
+	www.epa.gov.csv (first line is header row)
 
 	cleaned_nofiles.txt (for astrid by request)
 
