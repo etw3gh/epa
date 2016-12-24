@@ -2,6 +2,13 @@
 
 Attempts to create a sitemap for www.epa.gov
 
+# demo
+
+[link to tree view (slow loading)](http://52.60.90.44/~ubuntu/)
+
+[screenshot] (https://github.com/openciti/epa/raw/master/src/common/images/tree.png)
+
+
 ## note
 
 official web url is www3.epa.gov but this is not useful for crawling
@@ -68,17 +75,6 @@ files have been added to this repo:
 
 [link to raw txt](https://raw.githubusercontent.com/openciti/epa/master/cleaned_nofiles.txt)
 
-8) TODO: the above script is runing on an aws server check its public web site for some UI (coming soon)
 
-here: http://52.60.90.44/~ubuntu/
 
-or
-
-here: http://52.60.90.44
-
-9) TODO: commit to git when script is done
-
-10) TODO: generalize for any website / discover list of sites online
-
-11) TODO: ontario gov
 
