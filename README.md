@@ -6,7 +6,7 @@ Attempts to create a sitemap for www.epa.gov
 
 [link to tree view (slow loading)](http://52.60.90.44/~ubuntu/)
 
-[screenshot] (https://github.com/openciti/epa/raw/master/src/common/images/tree.png)
+[screenshot] (https://github.com/openciti/epa/raw/master/tree.png)
 
 
 ## note
